@@ -9,3 +9,4 @@ Quick C/C++ Snippets &amp; CPP Examples from production & personal use.
 - [CPP Insight](https://cppinsights.io/)
 - [Compiler Explorer](https://godbolt.org/)
 - [Example : Vector Instr](https://github.com/vectorclass)
+- [Bit Twiddling Hacks & More](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
