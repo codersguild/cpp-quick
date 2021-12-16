@@ -6,6 +6,7 @@ Quick C/C++ Snippets &amp; CPP Examples from production & personal use.
 
 ### Tools & Docs
 
+- [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
 - [CPP Insight](https://cppinsights.io/)
 - [Compiler Explorer](https://godbolt.org/)
 - [Example : Vector Instructions](https://github.com/vectorclass)
