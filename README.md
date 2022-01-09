@@ -13,6 +13,7 @@ Quick C/C++ Snippets &amp; CPP Examples. I refer to this when I am lost in the w
 - [Bit Twiddling Hacks & More](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
 - [JSON Read/Write](https://github.com/nlohmann/json#conversion-from-stl-containers)
 - [Design Patterns VS Design Principles: Iterator, Mediator and Memento](https://www.fluentcpp.com/2021/09/12/design-patterns-vs-design-principles-iterator-mediator-and-memento/)
+- [The Curiously Recurring Template Pattern (CRTP)](https://www.fluentcpp.com/2017/05/12/curiously-recurring-template-pattern/)
 
 ### CPPCon
 - [CppCon 2017: Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”](https://www.youtube.com/watch?v=ncHmEUmJZf4)
